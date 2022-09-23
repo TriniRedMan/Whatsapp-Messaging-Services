@@ -22,7 +22,17 @@ You should see something like below with a QR Code
 Follow this tutorial here from whatsapp.
 https://faq.whatsapp.com/539218963354346/?locale=en_US
 
-Once you have successfully logged into web.whatsapp.com now is when then "magic starts.
+Once you have successfully logged into web.whatsapp.com now is when then "magic" starts.
+
+Step 3
+
+Download and run.
+https://github.com/TriniRedMan/Whatsapp-Messaging-Services/blob/main/MPos-v.0.5.0-Portable/MPos.exe
+
+This will get your mouse position. This is key. You need to get your X and Y axis position of your send button. 
+
+![image](https://user-images.githubusercontent.com/44338527/192066430-9fdb359c-4cd3-4e3a-8c41-17ce3951bad0.png)
+
 
 
 
