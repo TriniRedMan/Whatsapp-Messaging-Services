@@ -10,7 +10,7 @@
 """
 Created on Tue Jun  7 15:24:33 2022
 
-@author: Sandrine
+@author: TriniRedMan
 """
 
 import pyautogui as pg
