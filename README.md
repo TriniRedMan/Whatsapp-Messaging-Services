@@ -4,7 +4,7 @@ To send individual bulk whatsapp messages
 Good day all,
 
 This is an App that i am working on. I do not claim anything as i would have pulled and source bits and parts from all over then internet.
-Download the Entire Repository unto your Desktop or anywhere on yoru PC.
+Download the Entire Repository unto your Desktop or anywhere on yoru PC. Please feel free to contribute and mke this even better.
 
 How to use.
 
